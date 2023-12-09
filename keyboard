@@ -1,57 +1,57 @@
 [{
 		"id": "1",
-		"name": "Epson EcoTank",
+		"name": "A4tech",
 		"price": "$140",
-		"description": "Epson EcoTank L8050 6-color Color Inkjet Printer – IHP Corporation",
-		"imageurl": "https://www.ihp.com.bd/wp-content/uploads/2021/09/L8050-5.jpg",
+		"description": "Lasting quality and full functionality combine to deliver maximum value in a keyboard built for productivity",
+		"imageurl": "https://static.javatpoint.com/computer/images/how-to-use-a-computer-keyboard.png",
 		"sub_des": "23.5 inch"
 	},
 	{
 		"id": "2",
-		"name": "Dell Epson",
+		"name": "HP 100",
 		"price": "$150",
-		"description": "Epson EcoTank L8050 A4 Size 6 Color Printer Price in Pakistan - TechGlobe.pk",
-		"imageurl": "https://static3.webx.pk/files/4012/Images/1-4012-1788654-200623111444991.jpg",
+		"description": "Lasting quality and full functionality combine to deliver maximum value in a keyboard built for productivity",
+		"imageurl": "https://sapcomputers.lk/wp-content/uploads/2022/04/Images-Daraz.jpg",
 		"sub_des": "27 inch"
 	},
 	{
 		"id": "3",
-		"name": "Inkjet Printers",
+		"name": "1986 IBM",
 		"price": "$120",
-		"description": "Inkjet Printers - PIXMA E3470 - Canon South & Southeast Asia",
-		"imageurl": "https://asia.canon/media/image/2020/08/26/e0974bdc54d445039d4e3db2301b0c73_E34xx_AS_FR_cl2_blk_en-362x320.png",
+		"description": "1986 IBM PC XT original keyboard June 9 86 (week 24) (83-key) – ClickyKeyboards",
+		"imageurl": "https://i0.wp.com/www.clickykeyboards.com/wp-content/uploads/2020/08/DSC09412-scaled.jpeg?fit=2560%2C1920&ssl=1",
 		"sub_des": "21 inch"
 	},
 	{
 		"id": "4",
-		"name": "Dell wirecutter",
+		"name": "Mechanical Keyboard",
 		"price": "$330",
-		"description": "a shoe designed to be worn for sports, exercising, or recreational activity, as racquetball, jogging, or aerobic dancing",
-		"imageurl": "https://cdn.thewirecutter.com/wp-content/media/2023/04/printers-2048px-09256-3x2-1.jpg",
+		"description": "Mechanical Keyboard" Images – Browse 2,107 Stock Photos, Vectors, and Video ",
+		"imageurl": "https://t3.ftcdn.net/jpg/04/55/26/24/360_F_455262458_H5wH0b8U7ifxXJP4UHx1cLtD7GuGC8Gb.jpg",
 		"sub_des": "34 inch"
 	},
 	{
 		"id": "5",
-		"name": "Canon",
+		"name": "gaming keyboard",
 		"price": "$300",
-		"description": "a shoe designed to be worn for sports, exercising, or recreational activity, as racquetball, jogging, or aerobic dancing",
-		"imageurl": "https://i.pcmag.com/imagery/roundups/001YRPs5HePYqsgyn8QFbK1-7..v1588281494.jpg",
+		"description": "gaming keyboard light",
+		"imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdYZriwJKONyuPsmTAeGPBbzsAqpsKOQ3AGEe_vya9GDUDjWpk00KECxOj-sLnnMqrGdQ&usqp=CAU",
 		"sub_des": "42 inch"
 	},
 	{
 		"id": "6",
-		"name": "Epson",
+		"name": "HD keyboard",
 		"price": "$270",
-		"description": "Epson EcoTank L3250 Printer Price in BD |RYANS",
-		"imageurl": "https://www.ryanscomputers.com/storage/products/main/epson-ecotank-l3250-a4-wi-fi-multifunction-11644664389.webp",
+		"description": "HD keyboard light wallpapers | Peakpx",
+		"imageurl": "https://w0.peakpx.com/wallpaper/402/358/HD-wallpaper-blue-light-keyboard-led-technology.jpg",
 		"sub_des": "42 inch"
 	},
 	{
 		"id": "7",
-		"name": "Acer HL",
+		"name": "Logickeyboard",
 		"price": "$310",
-		"description": "Brother HL-L2320D Auto Duplex Laser Printer (30 PPM)",
-		"imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjINxHP1LEmJozXgQNZmOutFn6c8Ez4ocl4g&usqp=CAU",
+		"description": "Logickeyboard™ - LogicLight™",
+		"imageurl": "https://logickeyboard.com/images/LL-BLACK-LPBW%20darkDSC_9133-low%20res-p.jpg",
 		"sub_des": "21.5 inch"
 	}
 
