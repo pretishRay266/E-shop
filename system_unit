@@ -1,57 +1,57 @@
 [{
 		"id": "1",
-		"name": "Epson EcoTank",
-		"price": "$140",
+		"name": "Dell",
+		"price": "$210",
 		"description": "Epson EcoTank L8050 6-color Color Inkjet Printer – IHP Corporation",
-		"imageurl": "https://www.ihp.com.bd/wp-content/uploads/2021/09/L8050-5.jpg",
+		"imageurl": "https://5.imimg.com/data5/ID/NA/MY-2/computer-cpu-500x500.jpg",
 		"sub_des": "23.5 inch"
 	},
 	{
 		"id": "2",
-		"name": "Dell Epson",
+		"name": "Samsung Bulk CPU",
 		"price": "$150",
-		"description": "Epson EcoTank L8050 A4 Size 6 Color Printer Price in Pakistan - TechGlobe.pk",
-		"imageurl": "https://static3.webx.pk/files/4012/Images/1-4012-1788654-200623111444991.jpg",
+		"description": "Samsung Bulk CPU, For Computer, Memory Size: 5 Gb",
+		"imageurl": "https://5.imimg.com/data5/SR/EW/MZ/SELLER-93459052/brand-new-cpu-sealed-pack-500x500-500x500.jpg",
 		"sub_des": "27 inch"
 	},
 	{
 		"id": "3",
-		"name": "Inkjet Printers",
+		"name": "HP Pavilion",
 		"price": "$120",
-		"description": "Inkjet Printers - PIXMA E3470 - Canon South & Southeast Asia",
-		"imageurl": "https://asia.canon/media/image/2020/08/26/e0974bdc54d445039d4e3db2301b0c73_E34xx_AS_FR_cl2_blk_en-362x320.png",
+		"description": "Intel i5 HP Pavilion Desktop CPU, For Computer",
+		"imageurl": "https://5.imimg.com/data5/QM/JF/AD/ANDROID-8143640/product-jpeg-500x500.jpeg",
 		"sub_des": "21 inch"
 	},
 	{
 		"id": "4",
-		"name": "Dell wirecutter",
+		"name": "HP Elite",
 		"price": "$330",
-		"description": "a shoe designed to be worn for sports, exercising, or recreational activity, as racquetball, jogging, or aerobic dancing",
-		"imageurl": "https://cdn.thewirecutter.com/wp-content/media/2023/04/printers-2048px-09256-3x2-1.jpg",
+		"description": "HP Elite 8300 SFF Small Form Factor Business Desktop Computer, Intel Quad-Core i7-3770 up to",
+		"imageurl": "https://m.media-amazon.com/images/I/71tc7Nl6VKS.jpg",
 		"sub_des": "34 inch"
 	},
 	{
 		"id": "5",
-		"name": "Canon",
-		"price": "$300",
-		"description": "a shoe designed to be worn for sports, exercising, or recreational activity, as racquetball, jogging, or aerobic dancing",
-		"imageurl": "https://i.pcmag.com/imagery/roundups/001YRPs5HePYqsgyn8QFbK1-7..v1588281494.jpg",
+		"name": "ASUS",
+		"price": "$400",
+		"description": "ASUS brings greater power to affordable gaming machines with AMD",
+		"imageurl": "https://edgeup.asus.com/wp-content/uploads/2019/06/GL10CSPPT-e1560202185980.png",
 		"sub_des": "42 inch"
 	},
 	{
 		"id": "6",
-		"name": "Epson",
+		"name": "ASUS",
 		"price": "$270",
-		"description": "Epson EcoTank L3250 Printer Price in BD |RYANS",
-		"imageurl": "https://www.ryanscomputers.com/storage/products/main/epson-ecotank-l3250-a4-wi-fi-multifunction-11644664389.webp",
+		"description": "ASUS Expert Center D700SC Desktop PC (Intel Core i5-11400/512GB SSD/8GB RAM/Windows 11)",
+		"imageurl": "hhttps://www.eccomputers.ca/wp-content/uploads/2023/09/17169052.jpgttps://www.ryanscomputers.com/sunction-11644664389.webp",
 		"sub_des": "42 inch"
 	},
 	{
 		"id": "7",
-		"name": "Acer HL",
+		"name": "Dell",
 		"price": "$310",
-		"description": "Brother HL-L2320D Auto Duplex Laser Printer (30 PPM)",
-		"imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjINxHP1LEmJozXgQNZmOutFn6c8Ez4ocl4g&usqp=CAU",
+		"description": "Dell Desktop Intel 10th gen i5 8GB 256GB in Nep",
+		"imageurl": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/inspiron-3020s-mlk/media-gallery/desktop-inspiron-3020-sff-blue-gallery-1.psd?fmt=png-alpha&wid=800&hei=620",
 		"sub_des": "21.5 inch"
 	}
 
