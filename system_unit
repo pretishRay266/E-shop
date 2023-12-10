@@ -33,10 +33,10 @@
 	{
 		"id": "5",
 		"name": "ASUS",
-		"price": "$400",
+		"price": "$410",
 		"description": "ASUS brings greater power to affordable gaming machines with AMD",
 		"imageurl": "https://edgeup.asus.com/wp-content/uploads/2019/06/GL10CSPPT-e1560202185980.png",
-		"sub_des": "42 inch"
+		"sub_des": "41 inch"
 	},
 	{
 		"id": "6",
